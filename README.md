@@ -1,7 +1,10 @@
-# 22CYS
+<p align="center">
+  <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/AVV_TIFAC-CORE_in_Cyber_Security.png" alt ="AMRITA-TIFAC-CYBER" width="700" />
+</p>
 
+## 22CYS - Semester-wise Faculty Details
 
-## Semester 1 ![](https://img.shields.io/badge/Credit-24-blue)
+### 2021 - 2022: Semester 1 ![](https://img.shields.io/badge/Credit-24-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
@@ -14,7 +17,7 @@
 | ENGG | 20CYS102 | Principles of Engineering | 3 | <img src="" width=120> <br/> Amit Agarwal |
 | ENGG | 20CYS103 | Computer Hardware and System Essentials | 3 | <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/CYS-RAM/refs/heads/main/Assets/Faculties/AKM.jpg?token=GHSAT0AAAAAACRWUYJOCGMDSIJUEV74AZYOZ6JVRBQ" width=120> <br/> Mr. Ashok Kumar Mohan |
 
-## Semester 2 ![](https://img.shields.io/badge/Credit-23-blue)
+### 2022-2023: Semester 2 ![](https://img.shields.io/badge/Credit-23-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
@@ -27,20 +30,20 @@
 | ENGG | 20CYS181 | Computer Programming Lab | 1 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/RR.png" width=120> <br/> Mr. Ramaguru Radhakrishnan |
 | ENGG | 20CYS114 | Cyber Security Essentials | 3 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/SS.png" width=120> <br/> Mr. Saurabh Shrivastava |
 
-## Semester 3 ![](https://img.shields.io/badge/Credit-21-blue)
+### 2022-2023: Semester 3 ![](https://img.shields.io/badge/Credit-21-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
 | HUM | 19AVP201 | Amrita Value Program I | 1 |  |
-| MAT | 20CYS201 | Optimization Techniques | 4 | Ms. Diya B |
+| MAT | 20CYS201 | Optimization Techniques | 4 | <img src="assets/images/DB.png" width=120> <br/> Ms. Diya Bhattacharyya |
 | CYS | 20CYS202 | User Interface Design | 2 | <img src="https://raw.githubusercontent.com/Amrita-TIFAC-Cyber-Blockchain/CYS-RAM/refs/heads/main/Assets/Faculties/HP.png?token=GHSAT0AAAAAACRWUYJOSREHO74CSUR4XPKWZ6JVQNQ" width=120> <br/> Ms. Hemalatha P |
 | CYS | 20CYS203 | Operating Systems | 3 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/ARN.jpg" width=120> <br/> Mr. Anand R Nair |
 | CYS | 20CYS281 | Operating System Lab | 1 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/ARN.jpg" width=120> <br/> Mr. Anand R Nair |
 | CSE | 19CSE201 | Advanced Programming | 3 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/RR.png" width=120> <br/> Mr. Ramaguru Radhakrishnan |
 | CYS | 20CYS204 | Database Management System | 3 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/AKN.png" width=120> <br/> Dr. K.N. Ambili |
-| CYS | 20CYS205 | Modern Cryptography | 4 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/LKV.jpg" width=120> <br/> Dr. K.V. Lakshmy |
+| CYS | 20CYS205 | Modern Cryptography | 4 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/MS.jpg" width=120> <br/> Prof. M. Sethumadhavan |
 
-## Semester 4 ![](https://img.shields.io/badge/Credit-22-blue)
+###  2023-2024: Semester 4 ![](https://img.shields.io/badge/Credit-22-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
@@ -55,7 +58,7 @@
 | CYS | 20CYS283 | Data Structures and Algorithms Lab | 1 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/ARN.jpg" width=120> <br/> Mr. Anand R Nair |
 | CYS | 20CYS383 | Java Programming Lab | 1 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/RR.png" width=120> <br/> Mr. Ramaguru Radhakrishnan |
 
-## Semester 5 ![](https://img.shields.io/badge/Credit-22+[3]-blue)
+### 2023-2024: Semester 5 ![](https://img.shields.io/badge/Credit-22+[3]-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
@@ -68,12 +71,12 @@
 | HUM | 19ENV300 | Environmental Science | P/F | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/RR.png" width=120> <br/> Mr. Ramaguru Radhakrishnan |
 | HUM | 19SSK301 | Soft Skills – 2 | 2 |
 | HUM | 19HUM240 | Pyschology for Engineers (Humanities Elective)  | 2 | Dr. Rajalakshmi S. A. | 
-| HUM | 19ENG230 | Business Communication (Humanities Elective)  | 2 |
-| HUM |  | Mobile Video Production (Humanities Elective)  | 2 |
-| HUM |  | Film Appreciation (Humanities Elective)  | 2 |
+| HUM | 19ENG230 | Business Communication (Humanities Elective)  | 2 | Ms. Shobhana Kumaraguru |
+| HUM | 23CMJ232 | Mobile Video Production (Humanities Elective)  | 2 |  |
+| HUM |  | Film Appreciation (Humanities Elective)  | 2 |  |
 | ENGG | 19LIV390 | Live – in – Labs | [3] |
 
-## Semester 6 ![](https://img.shields.io/badge/Credit-22+[3]-blue)
+### 2024-2025: Semester 6 ![](https://img.shields.io/badge/Credit-22+[3]-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
@@ -88,7 +91,7 @@
 | HUM | 19LAW300 | Indian Constitution | P/F |
 | ENGG | 19LIV490 | Live – in – Labs | [3] |  |
 
-## Semester 7 ![](https://img.shields.io/badge/Credit-21-blue)
+### 2024-2025: Semester 7 ![](https://img.shields.io/badge/Credit-21-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
@@ -101,11 +104,8 @@
 | CYS |  | Free Elective - 1 | 3 |
 | CYS | 20CYS495 | Project: Phase - 1 / Seminar | 2 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/KS.png" width=120> <br/> Mr. Sreejith K |
 
-## Semester 8 ![](https://img.shields.io/badge/Credit-10-blue)
+### 2025-2026: Semester 8 ![](https://img.shields.io/badge/Credit-10-blue)
 
 | Cat | Code | Subject Title | Credit | Faculty | 
 |:---:|:----:|:--------------|:------:|:-------:|
 | CYS | 20CYS499 | Project: Phase - 2 | 10 | <img src="https://github.com/Amrita-TIFAC-Cyber/CYS-RAM/blob/main/Assets/Faculty/KS.png" width=120> <br/> Mr. Sreejith K |
-
-
-
